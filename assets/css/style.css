@@ -7,7 +7,7 @@
 }
 
 .bg-color-three-reasons {
-    background-color: white;
+    background-color: #fff;
 }
 
 .bg-color-personal-info {
@@ -215,7 +215,7 @@ footer {
     padding: 20px;
 }
 
-/* ---------------------------------------- Three Reasons */
+/* ----------------------------------------Three Reasons */
 
 .three-reasons-icon {
     font-size: 26px;
@@ -226,7 +226,7 @@ footer {
     margin-bottom: 15px;
 }
 
-/* ---------------------------------------- Personal Info */
+/* ----------------------------------------Personal Info */
 
 .personal-info-item {
     margin-bottom: 20px;
